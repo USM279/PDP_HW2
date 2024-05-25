@@ -1,0 +1,42 @@
+Printing is started for Star-5
+Printing is done for Star-5
+Printer is free
+Printing is started for Star-3
+Printing is done for Star-3
+Printer is free
+Printing is started for Alphabet-5
+Printing is done for Alphabet-5
+Printer is free
+Printing is started for Alphabet-7
+Printing is done for Alphabet-7
+Printer is free
+Printing is started for Alphabet-4
+Printing is done for Alphabet-4
+Printer is free
+Printing is started for Star-4
+Printing is done for Star-4
+Printer is free
+Printing is started for Star-8
+Printing is done for Star-8
+Printer is free
+Printing is started for Alphabet-8
+Printing is done for Alphabet-8
+Printer is free
+Printing is started for Star-9
+Printing is done for Star-9
+Printer is free
+Printing is started for Star-9
+Printing is done for Star-9
+Printer is free
+Printing is started for Alphabet-9
+Printing is done for Alphabet-9
+Printer is free
+Printing is started for Star-1
+Printing is done for Star-1
+Printer is free
+Printing is started for Alphabet-1
+Printing is done for Alphabet-1
+Printer is free
+Printing is started for Star-1
+Printing is done for Star-1
+Printer is free
